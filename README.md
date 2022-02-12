@@ -10,7 +10,7 @@ I am still learning and growing; I hope to use my experiences both in school and
 ## languages
 
 I am proficient in three languages: Java, Python, and C. 
-I intent to grow my arsenary of programming languages to include more modern languages, like Ruby, Flutter, JavaScript, and PHP.
+I intent to grow my arsenal of programming languages to include more modern languages, like Ruby, Flutter, JavaScript, and PHP.
 
 ## projects
 
